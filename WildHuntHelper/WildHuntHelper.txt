@@ -1,7 +1,7 @@
-## APIVersion: 100032
+## APIVersion: 100034
 ## Title: Wild Hunt Helper
-## Version: 1.0.1
-## AddOnVersion: 2
+## Version: 1.0.2
+## AddOnVersion: 3
 ## Author: FAR747
 ## Description: Simple addon for tracking and working with the wild hunt ring
 ## SavedVariables: WildHuntHelperSavedVariables WildHuntHelperSavedVariablesChar
